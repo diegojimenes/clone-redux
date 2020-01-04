@@ -1,0 +1,8 @@
+{
+  "name": "clone-redux",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/diegojimenes/clone-redux.git",
+  "author": "Diego jimenes <lligaskate@gmail.com>",
+  "license": "MIT"
+}
